@@ -1,0 +1,9 @@
+.textfield {
+  display: grid;
+  padding-top: 15px;
+  padding-bottom: 15px;
+}
+
+.textfield__textarea {
+  resize: none;
+}
